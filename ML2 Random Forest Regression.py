@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Random Forest Regression
 
 # ## Importing the libraries
@@ -81,8 +78,6 @@ plt.ylabel('Close Price')
 plt.legend()
 plt.show()
 
-
-# In[ ]:
 
 
 
