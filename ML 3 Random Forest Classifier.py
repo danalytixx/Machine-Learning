@@ -20,8 +20,6 @@ from sklearn.model_selection import train_test_split
 # In[2]:
 
 
-# Splitting the dataset into the Training set and Test set
-
 #Importing traing data
 dataset = pd.read_csv('C:/Users/Harry/Desktop/Analytics/diabetes_.csv')
 X = dataset.iloc[:, 1:9].values
