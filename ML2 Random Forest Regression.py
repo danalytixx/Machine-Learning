@@ -19,7 +19,6 @@ warnings.filterwarnings("ignore")
 # In[31]:
 
 
-# Splitting the dataset into the Training set and Test set
 
 #Importing traing data
 datasettrain = pd.read_csv('C:/Users/Harry/Desktop/Analytics/TSLA_train3.csv')
