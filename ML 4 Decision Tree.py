@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # # Decision Tree
 
@@ -132,9 +130,6 @@ for ax in axs.flat:
 
 plt.legend()
 plt.show()
-
-
-# In[ ]:
 
 
 
