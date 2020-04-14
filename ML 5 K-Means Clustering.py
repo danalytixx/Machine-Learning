@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # K-Means Clustering
 
 # ## Importing the packages
@@ -93,7 +90,7 @@ X_test_petal_length1=np.array(X_test_petal_length).reshape(-1)
 y_test_petal_width1=np.array(y_test_petal_width).reshape(-1)
 
 
-# ## Plotting the Clustering
+# ## Plotting the result of clustering
 
 # In[17]:
 
