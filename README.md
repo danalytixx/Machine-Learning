@@ -1,5 +1,5 @@
 # Machine-Learning
-Here you can find some python examples for Maschine Learning. 
+Here you can find some python examples for Machine Learning. 
 For more information find th channel here: https://www.youtube.com/channel/UCirWCZTHbu2TJYnIZNgHeAA 
 
 Have fun with the project :)
